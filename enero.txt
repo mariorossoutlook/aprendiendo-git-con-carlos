@@ -2,3 +2,6 @@ este mes fetejamos año nuevo.
 tambien reyes magos.
 
 pero hace mucho frio.
+
+
+Vamos a probar si esta habilitadoel boton merge del pull request por default
